@@ -1,9 +1,11 @@
 h1 {
-  background-color: yellow;
+  background-color: aqua;
 }
 .well {
-  background-color: grey;
+  background-image: url(wall.jpg);
+  background-size: contain;
+  color: aquamarine;
 }
 .jumbotron {
-  background-color: orange;
+  background-color: gray;
 }
